@@ -18,9 +18,9 @@
 
 На данном скрине видно, что DAG имеет название pascal и выполняется в 11:44 по UTC
 
-![1](https://github.com/Mahach22/airflow_minikube/edit/main/1.png)
 
+![dag](https://github.com/Mahach22/airflow_minikube/main/1.png)
 
 Логи, в которых видно 10 уровлней треугольника паскаля.
 
-![2](https://github.com/Mahach22/airflow_minikube/edit/main/2.png)
+![log](https://github.com/Mahach22/airflow_minikube/main/2.png)
